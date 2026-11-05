@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Thayná! 👋
 
-<!--
-**thaynans/thaynans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Analysis and Development (ADS) student based in Pará, Brazil, currently specializing in **Python** through intensive training (Hashtag Impressionador) and academic projects. 
 
-Here are some ideas to get you started:
+My goal is to build a solid career in technology and shift my professional life towards the European tech ecosystem, with a special focus on **France (Paris)** and **Austria (Vienna)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 About Me & My Goals
+- 🎓 **Education:** Currently pursuing a degree in Software Analysis and Development (ADS).
+- 🐍 **Current Focus:** Advanced Python, Process Automation, Web Scraping, and Data Analysis.
+- 🏳️‍🌈 **Community:** Proud member and supporter of women and LGBTQIA+ communities in Tech.
+- 🗺️ **The Plan:** Connecting with international developers and preparing my portfolio for global opportunities.
+
+### 🛠️ Tech Stack & Tools
+- **Language:** Python 3 (Logic, Functions, OOP)
+- **Data & Automation:** Pandas, NumPy, Selenium, BeautifulSoup
+- **Environment:** VS Code, Jupyter Notebook, Git & GitHub
+
+---
+*“Building efficient code today to develop global solutions tomorrow.”*
